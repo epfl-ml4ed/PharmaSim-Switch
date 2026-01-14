@@ -4,6 +4,9 @@ This repository contains supplementary resources for the study:
 
 **Structuring versus Problematizing: How LLM-based Agents Scaffold Learning in Diagnostic Reasoning**
 
+## Citation
+Güreş, F. B., Nazaretsky, T., Neshaei, S. P., & Käser, T. (2025). *Structuring versus Problematizing: How LLM-based Agents Scaffold Learning in Diagnostic Reasoning*. In *Proceedings of the 16th International Learning Analytics and Knowledge Conference (LAK ’26)*. ACM. https://doi.org/10.1145/3785022.3785105
+
 It includes the full prompt set used in the LLM-driven scaffolding system, as well as visual summaries of statistical analyses and behavioral metrics reported in the paper.
 
 ---
